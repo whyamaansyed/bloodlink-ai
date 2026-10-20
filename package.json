@@ -1,0 +1,11 @@
+{
+  "name": "smart-blood-bank",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "start": "node scripts/dev.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
